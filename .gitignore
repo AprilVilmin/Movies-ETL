@@ -125,5 +125,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+#csvignores
+movies_metadata.csv
+ratings.csv
+
 # Pyre type checker
 .pyre/
