@@ -129,5 +129,8 @@ dmypy.json
 movies_metadata.csv
 ratings.csv
 
+#password
+config.py
+
 # Pyre type checker
 .pyre/
