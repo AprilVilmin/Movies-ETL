@@ -7,8 +7,25 @@ The biggest online merchant,on the globe, Amazing Prime, also has a streaming pl
 Create a database for a hackathon that will update daily. The idea is that the hackathon will encourage the team, but create networks with the local IT community. 
 
 ## Analysis
+There are 
 
-### Analysis of Outcomes Based on Launch Date
+### Screenshots
+
+#### Movies Query
+
+![movies_query.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/movies_query.png)
+
+#### Movies Query Results
+
+![movies_query_results](https://github.com/AprilVilmin/Movies-ETL/blob/main/movies_query_results.png)
+
+#### Ratings Query
+
+![ratings_query.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/ratings_query.png)
+
+#### Ratings Query Results
+
+![ratings_query_results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/ratings_query_results.png)
 
 ### Analysis of Outcomes Based on Goals
 
