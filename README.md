@@ -17,11 +17,11 @@ This was the most difficult module for me to date. I could not share my csv file
 
 #### Screenshots
 
-#####pgAdmin Movie Table Screenshot
+##### pgAdmin Movie Table Screenshot
 
 ![Movie Results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/Resources/Movie%20Results.png)
 
-#####pf Adming Ratings Screenshot
+##### pgAdmin Ratings Screenshot
 
 ![Ratings Results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/Resources/Ratings%20Results.png)
 
