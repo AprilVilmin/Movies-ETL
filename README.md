@@ -27,8 +27,6 @@ There are 6,052 rows in the movies table and 26,024,289 rows in the ratings tabl
 
 ![ratings_query_results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/ratings_query_results.png)
 
-### Analysis of Outcomes Based on Goals
-
 ## Challenges and Difficulties Encountered
 This was the most difficult module for me to date. I could not share my csv files on my GitHub as they were too large, so I took a screenshot of the select * statement results for both the ratings table and the movies table in pgAdmin and saved them in the Resources folder. I also ran into an issue when trying to use the 'Hint' provided in section of the challenge. When I changed the code from section three from to 'replace' as the hint suggests, the wrong number of rows returned. The way I was able to obtain the correct number of rows in my GitHub was to delete both existing tables (movies and ratings) from pgAdmin and then run my code. I have included a screenshot of the hint below. 
 
