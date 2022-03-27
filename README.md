@@ -21,7 +21,7 @@ This was the most difficult module for me to date. I could not share my csv file
 
 ![Movie Results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/Resources/Movie%20Results.png)
 
-##### pgAdmin Ratings Screenshot
+##### pgAdmin Ratings Table Screenshot
 
 ![Ratings Results.png](https://github.com/AprilVilmin/Movies-ETL/blob/main/Resources/Ratings%20Results.png)
 
